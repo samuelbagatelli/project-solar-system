@@ -4,3 +4,7 @@ body {
   font-family: Ubuntu , Helvetica , sans-serif;
   text-align: center;
 }
+
+header {
+  margin: 3% 0;
+}
