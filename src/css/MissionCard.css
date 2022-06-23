@@ -1,0 +1,12 @@
+.mission-card {
+  border: solid 1px white;
+  border-radius: 10px;
+  margin: 1% 0;
+  transition: all 0.2s ease-in-out;
+  width: 47%;
+}
+
+.mission-card:hover {
+  background-color: rgba(209, 199, 196, 0.65);
+  cursor: pointer;
+}

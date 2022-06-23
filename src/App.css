@@ -1,3 +1,6 @@
-.App {
+body {
+  background-color: #2f3939;
+  color: white;
+  font-family: Ubuntu , Helvetica , sans-serif;
   text-align: center;
 }
